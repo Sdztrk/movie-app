@@ -21,5 +21,5 @@ A web application built with React for discovering and exploring movies. This pr
 
 ## Demo
 
-Check out the live demo of the React Movie App: https://fir-movie-app-5a7c2.web.app
+Check out the live demo of the React Movie App: https://my-movie-app-1a582.web.app/
 
